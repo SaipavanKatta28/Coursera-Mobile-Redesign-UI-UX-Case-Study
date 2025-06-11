@@ -2,6 +2,9 @@
 
 ## 🔍 Overview
 This project is a redesign of the Coursera mobile app, focused on improving the user interface (UI) and user experience (UX) through user research, design thinking, and modern prototyping tools.
+## 🔗 Project Demo
+👉 [View the Final Figma Prototype]([https://www.figma.com/file/U9akcsKQWiaaKWKlI1E3by/FINAL-DESIGN?type=design&node-id=0%3A1](https://www.figma.com/proto/U9akcsKQWiaaKWKlI1E3by/FINAL-DESIGN?node-id=3-9220&t=oDdoqbPet3x8Dilt-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A11056&show-proto-sidebar=1))
+
 
 - **Team Members**: Harshith Aileneni, Alankrutha Reddy Purumandla, Saipavan Katta, Yashaswini Tadishetty  
 - **Tools Used**: Figma, Moqups, Google Forms  
@@ -53,8 +56,6 @@ Our process followed the **Design Thinking** framework:
 - VR-based immersive learning modules
 - Community-focused mental wellness and social learning tools
 
-## 🔗 Project Demo
-👉 [View the Final Figma Prototype](https://www.figma.com/file/U9akcsKQWiaaKWKlI1E3by/FINAL-DESIGN?type=design&node-id=0%3A1)
 
 ## 📎 References
 - MindTools, UXPlanet, Medium, Maze.co  
